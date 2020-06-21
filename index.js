@@ -1,5 +1,5 @@
-$("h1").text("Bye")
+$("h1").text("Bye");
 
-$("button").html("<em>Hey</em>")
+$("button").html("<em>Hey</em>");
 
-document.addEventListener("click")
+document.addEventListener("click");
